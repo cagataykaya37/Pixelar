@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: a2cc5456d500af74081e97d8da13e0e6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelPrefab: {fileID: 257382796576512709, guid: cb339923434be50499a2fe4f5af579cd, type: 3}
+  - abc: {instanceID: 0}
+  - adc: {instanceID: 0}
+  - lifeCountText: {instanceID: 0}
+  - timeCountText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
